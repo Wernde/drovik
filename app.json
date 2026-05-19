@@ -19,8 +19,6 @@
       },
       "package": "com.drovik.app"
     },
-    "plugins": [
-      "expo-sqlite"
-    ]
+    "plugins": []
   }
 }
